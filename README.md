@@ -1,6 +1,13 @@
 # Real-Time-Competitor-Strategy-Tracker-for-E-Commerce
 
 ## Project Overview
+![image](https://github.com/user-attachments/assets/ce580cf2-d7f4-495c-9fc8-dfdad63a2f3c)
+
+
+https://github.com/user-attachments/assets/f5d96e43-453a-4b04-86c5-562debb5ac84
+
+
+
 This project focuses on creating a real-time competitive intelligence tool for e-commerce businesses. It provides actionable insights by monitoring competitor pricing, discount strategies, and customer sentiment. The solution leverages:
 
 - **Machine Learning**: Predictive modeling with ARIMA.
@@ -77,8 +84,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-**Developer:** [Your Name]  
-**Email:** [your-email@example.com]  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-
+**Developer:** ALOK GUPTA  
+**Email:** alok.gupta.bnp@gmail.com  
 ---
